@@ -1,4 +1,3 @@
-
 ## Forking Note
 
 If you fork this repo, please change the **form action** to an email address you own before trying it out. [Thaaaanks!](https://i.imgur.com/TpBVEjv.jpg)
